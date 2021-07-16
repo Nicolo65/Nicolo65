@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolo65
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning C#, Python and Robot Framework
+- 🌱 I’m currently learning C#, Python and Golang (Go)
 - 💞️ I’m looking to collaborate on Nowhere
 - 📫 How to reach me nicolobruno65@gmail.com
 
